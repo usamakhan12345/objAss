@@ -1,0 +1,56 @@
+.container{
+    display: flex;
+    padding: 20px;
+}
+.input{
+    padding : 7px;
+    border-radius: 5px;
+    
+}
+
+label{
+    padding: 20px;
+    color: blue;
+}
+#cardContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+    /* padding-top: 400px; */
+}
+/* .box{
+    margin-top: 140px;
+} */
+#inputbtn{
+    justify-items: center;
+    margin-left: 550px;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+}
+#inputbtn:hover{
+    background-color: blue;
+    color:aliceblue;
+    font-weight: bold;
+    
+}
+.box {
+    height: 350px;
+    width: 250px;
+    background-color: whitesmoke;
+    box-shadow: 0px 1px 5px 2px lightblue;
+}
+.image{
+    
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    padding-left: 70px;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+.head {
+    color:blueviolet
+
+}
